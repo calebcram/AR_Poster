@@ -3,7 +3,10 @@ This is an Augmented Reality poster prototype being built for the NASA SUITS pro
 
 It allows the user to click a link to a github pages site which will allow them to scan an image tracking target on a physical poster at conference or demonstration 
 event with their mobile device. The poster can then be overlayed with videos, animations and mini games. This repository contains a simple demo of a basic crash 
-bandicoot game running based on a mobile tracking target. To use:
+bandicoot game running based on a mobile tracking target. 
+Demonstration Video: https://youtu.be/F9edc7Q5_ek
+
+To use:
 - 1.) Click link to WebGL Unity application
   https://calebcram.github.io/AR_Poster/
 - 2.) Allow tracking for image recognition and positional tracking
@@ -13,5 +16,4 @@ bandicoot game running based on a mobile tracking target. To use:
 - 5.) Game will begin once loaded, the image will be the "ground" you control crash by swiping right/left and jumping over obstacles.
 - 6.) Collect fruits to get the highest score!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F9edc7Q5_ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
