@@ -5,7 +5,7 @@ It allows the user to click a link to a github pages site which will allow them 
 event with their mobile device. The poster can then be overlayed with videos, animations and mini games. This repository contains a simple demo of a basic crash 
 bandicoot game running based on a mobile tracking target. To use:
 - 1.) Click link to WebGL Unity application
-https://calebcram.github.io/AR_Poster/
+ https://calebcram.github.io/AR_Poster/
 - 2.) Allow tracking for image recognition and positional tracking
 - 3.) Frame this image tracking target with your mobile devices camera    
  https://1drv.ms/u/s!Ap6rNzitHADvklx5vUPCzaAHjty1
