@@ -13,3 +13,5 @@ bandicoot game running based on a mobile tracking target. To use:
 - 5.) Game will begin once loaded, the image will be the "ground" you control crash by swiping right/left and jumping over obstacles.
 - 6.) Collect fruits to get the highest score!
 
+https://youtu.be/F9edc7Q5_ek
+
