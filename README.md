@@ -4,7 +4,7 @@ This is an Augmented Reality poster prototype being built for the NASA SUITS pro
 It allows the user to click a link to a github pages site which will allow them to scan an image tracking target on a physical poster at conference or demonstration 
 event with their mobile device. The poster can then be overlayed with videos, animations and mini games. This repository contains a simple demo of a basic crash 
 bandicoot game running based on a mobile tracking target. 
-Demonstration Video: https://youtu.be/F9edc7Q5_ek
+- Demonstration Video: https://youtu.be/F9edc7Q5_ek
 
 To use:
 - 1.) Click link to WebGL Unity application
