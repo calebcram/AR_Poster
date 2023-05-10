@@ -1,6 +1,8 @@
 # AR_Poster
 This is an Augmented Reality poster prototype being built for the NASA SUITS project based on ARWT for Unity. 
 
+![CrashBandicootARposter](https://github.com/calebcram/AR_Poster/assets/49875750/507f8d69-9da0-4c92-accd-bf2e2c627ecd)
+
 It allows the user to click a link to a github pages site which will allow them to scan an image tracking target on a physical poster at conference or demonstration 
 event with their mobile device. The poster can then be overlayed with videos, animations and mini games. This repository contains a simple demo of a basic crash 
 bandicoot game running based on a mobile tracking target. 
